@@ -1,0 +1,1 @@
+Proyecto para el seguimiento al desarrollo de la aplicación sw para facilitar la administración y seguimiento de rutinas deportivas personalizadas, para la maestría en gestión de proyectos de sw de la Universidad Autónoma de Manizales
